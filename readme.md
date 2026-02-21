@@ -27,8 +27,10 @@ This project demonstrates user registration, login, password hashing, token-base
 npm install bcrypt
 npm install
 
-```How to Start
+###How to Start
 node server.js
-```Open it  -- http://localhost:5000
+###Open it  --
+http://localhost:5000
 
-```If frontend is separate, open:  frontend/login.html
+###If frontend is separate, open:
+frontend/login.html
