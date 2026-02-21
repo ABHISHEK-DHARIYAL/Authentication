@@ -25,3 +25,10 @@ This project demonstrates user registration, login, password hashing, token-base
 
 ```bash
 npm install bcrypt
+npm install
+
+```How to Start
+node server.js
+```Open it  -- http://localhost:5000
+
+```If frontend is separate, open:  frontend/login.html
